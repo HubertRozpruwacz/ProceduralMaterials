@@ -1,4 +1,5 @@
 v0.0
+
  - Added lava.000
  - Added dirtyglass.000
  - Added Mold
@@ -26,3 +27,11 @@ Node Groups:
  - Cracks
  - CartoonNoise
  - Voronoi_triplemix
+ 
+ v0.2
+ 
+ - Deleted all curios (old, unoptimized materials that might come back in some form)
+
+Materials:
+ - metal.000
+ - concrete.000
