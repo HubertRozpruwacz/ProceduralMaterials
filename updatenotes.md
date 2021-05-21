@@ -1,10 +1,18 @@
-v0.0
+v0.3
 
- - Added lava.000
- - Added dirtyglass.000
- - Added Mold
- - Added Metal.000
- - Added bunch of unoptimized stuff
+ - Deleted many unefficient materials
+ - Started new naming convention
+ - Added T3.S2.leaf.000
+ - Added T8.S1.rock.001
+ - Added _math
+
+v0.2
+ 
+ - Deleted all curios (old, unoptimized materials that might come back in some form)
+
+Materials:
+ - metal.000
+ - concrete.000
 
 v0.1
 
@@ -27,11 +35,13 @@ Node Groups:
  - Cracks
  - CartoonNoise
  - Voronoi_triplemix
- 
- v0.2
- 
- - Deleted all curios (old, unoptimized materials that might come back in some form)
 
-Materials:
- - metal.000
- - concrete.000
+v0.0
+
+ - Added lava.000
+ - Added dirtyglass.000
+ - Added Mold
+ - Added Metal.000
+ - Added bunch of unoptimized stuff
+
+
