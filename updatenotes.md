@@ -1,3 +1,38 @@
+v0.5
+
+ - Purged all ugly/outdated materials
+ 
+ New Materials:
+
+ - S1.T4.wood.000
+ - S1.T4.wood_bark.000
+ - S1.T4.wood_bark.001
+ - S1.T4.sand.000
+ - _textures
+ - _math
+ - _contrastblock
+ - _materials
+ 
+ New Texture Groups:
+ 
+ - T2_NetVoronoi_Cheap_Euclidean
+ - T2_NetVoronoi_Cheap_Chebychev
+ 
+ New Preview Sphere
+
+v0.4
+
+ New Texture Groups:
+
+ - T2_SplotchNoise
+ - T3_SplotchNoise
+ - T2_NetVoronoi_Euclidian
+ - T2_NetVoronoi_Chebychev
+ 
+ New Materials:
+ 
+ - T5.S1.dirt.000
+
 v0.3
 
  - Deleted many unefficient materials
